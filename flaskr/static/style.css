@@ -29,9 +29,9 @@ input {
     margin: 8px 0;
     box-sizing: border-box;
     border-radius: 3px;
-    font-family: Menlo;
+    font-family: Menlo, Microsoft Yahei,Avenir,Segoe UI,Hiragino Sans GB,STHeiti,Microsoft Sans Serif,WenQuanYi Micro Hei,sans-serif;
     font-size: large;
-    color: whitesmoke;
+    color: black;
 }
 input.danger { color: #cc2f2e; }
 input[type=submit] {
@@ -40,9 +40,10 @@ input[type=submit] {
     outline: none;
     border-radius: 3px;
     background: #007bff8f;
-    font-family: Menlo;
+    font-family: Menlo, Microsoft Yahei,Avenir,Segoe UI,Hiragino Sans GB,STHeiti,Microsoft Sans Serif,WenQuanYi Micro Hei,sans-serif;
     align-self: start;
     min-width: 10em;
+    color: white;
 }
 
 
